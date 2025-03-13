@@ -5,9 +5,9 @@ Hi! I'm Jaymes, a **Business Intelligence Student** with **15+ years of experien
 Currently, I'm expanding my knowledge in **SQL, Python, and Power BI**, working on projects that improve **business efficiency, and data storytelling**. My extensive background in **team management and customer relations** helps me bridge the gap between **business operations and data insights**.  
  
 ## Some facts about me:  
-- 💡 I enjoy optimizing business processes with **data-driven insights**. This is actually a hobby between my friends and I. 
+- 💡 I enjoy optimizing business processes with data-driven insights. This is a hobby between my friends and I. 
 - 📊 Passionate about **business intelligence, customer analytics, and operations management**.  
-- 🌍 Bilingual: **English & Spanish**.  
+- 🌍 Bilingual: **English & (Business) Spanish**.  
 - 🎯 Always looking for new challenges and opportunities to **learn and grow**.  
 - ☕ Fun facts: I help run a youtube account and love experimenting with stem projects with my daughter.  
 
