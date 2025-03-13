@@ -1,14 +1,21 @@
-# Jaymes_Roberts
-I'm Jaymes Roberts, a **Business Intelligence student** 
-15+ years of experience in restaurant operations and management. 
-My expertise lies in **data analysis, marketing, financial management, and customer service**
- 🔭 I’m currently working on improving my **data visualization and analytics skills**.  
-- 🌱 I’m currently learning **SQL, Python, and Power BI**.  
-- 👯 I’m looking to collaborate on **data-driven projects and customer service optimizations**.  
-- 🤝 I’m looking for help with **advanced data modeling techniques**.  
-- 💬 Ask me about **business operations, analytics, and customer experience strategies**.  
-- 📫 How to reach me: [LinkedIn](your-link-here)  
-- 🌍 Languages: **English & (Business) Spanish**  
-- ⚡ Fun fact: I love solving business problems with **data-driven insights!**  
+# Hey 👋, This is Jaymes Roberts  
 
-🚀 Always open to networking and learning from others!
+Hi! I'm Jaymes, a **Business Intelligence Student** with **15+ years of experience in restaurant operations and customer service**. My expertise includes **business analytics, data visualization, financial management, and team leadership**. Now, I'm excited to apply my **data-driven problem-solving skills** in the tech field.  
+
+Currently, I'm expanding my knowledge in **SQL, Python, and Power BI**, working on projects that improve **business efficiency, and data storytelling**. My extensive background in **team management and customer relations** helps me bridge the gap between **business operations and data insights**.  
+ 
+## Some facts about me:  
+- 💡 I enjoy optimizing business processes with **data-driven insights**. This is actually a hobby between my friends and I. 
+- 📊 Passionate about **business intelligence, customer analytics, and operations management**.  
+- 🌍 Bilingual: **English & Spanish**.  
+- 🎯 Always looking for new challenges and opportunities to **learn and grow**.  
+- ☕ Fun facts: I help run a youtube account and love experimenting with stem projects with my daughter.  
+
+📫 **Let's connect!** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jaymes-roberts/) or here on GitHub.  
+
+Here is a link to my resume https://docs.google.com/document/d/1-Pn7T_VgEa6x-DpHZ1w3WMa50BEkDkWmrc4_BuYPm50/edit?usp=sharing
+
+---
+
+
+
