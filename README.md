@@ -1,6 +1,6 @@
 # Jaymes_Roberts
 I'm Jaymes Roberts, a **Business Intelligence student** 
-15+ years of experience in restaurant operations and management 
+15+ years of experience in restaurant operations and management. 
 My expertise lies in **data analysis, marketing, financial management, and customer service**
  🔭 I’m currently working on improving my **data visualization and analytics skills**.  
 - 🌱 I’m currently learning **SQL, Python, and Power BI**.  
