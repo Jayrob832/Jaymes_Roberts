@@ -13,7 +13,7 @@ Currently, I'm expanding my knowledge in **SQL, Python, and Power BI**, working 
 
 📫 **Let's connect!** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jaymes-roberts/) or here on GitHub.  
 
-Here is a link to my resume https://docs.google.com/document/d/1-Pn7T_VgEa6x-DpHZ1w3WMa50BEkDkWmrc4_BuYPm50/edit?usp=sharing
+You can view my resume <a href='https://docs.google.com/document/d/1-Pn7T_VgEa6x-DpHZ1w3WMa50BEkDkWmrc4_BuYPm50/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
 ---
 
